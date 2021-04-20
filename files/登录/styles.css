@@ -407,7 +407,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:253px;
+  width:337px;
   height:28px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -416,7 +416,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:28px;
@@ -425,11 +425,11 @@
 }
 #u23 {
   position:absolute;
-  left:878px;
-  top:314px;
-  width:253px;
+  left:836px;
+  top:312px;
+  width:337px;
   height:28px;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:28px;
@@ -440,7 +440,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:253px;
+  width:337px;
   white-space:nowrap;
 }
 #u25 {
