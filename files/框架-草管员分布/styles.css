@@ -3481,9 +3481,9 @@
 }
 #u6215 {
   position:absolute;
-  left:18px;
+  left:56px;
   top:1547px;
-  width:256px;
+  width:218px;
   height:33px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
@@ -3521,6 +3521,15 @@
   top:884px;
   width:100px;
   height:42px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u6220 {
+  position:absolute;
+  left:56px;
+  top:1590px;
+  width:218px;
+  height:33px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
