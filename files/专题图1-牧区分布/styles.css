@@ -9373,8 +9373,8 @@
 }
 #u11005 {
   position:absolute;
-  left:357px;
-  top:601px;
+  left:795px;
+  top:608px;
   width:522px;
   height:269px;
   overflow:hidden;
@@ -11836,4 +11836,13 @@
   width:6px;
   visibility:hidden;
   word-wrap:break-word;
+}
+#u11156 {
+  position:absolute;
+  left:1196px;
+  top:893px;
+  width:33px;
+  height:20px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
 }
